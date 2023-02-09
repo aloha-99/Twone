@@ -117,3 +117,5 @@ ZIRA, JANDI 등 과 같은 협업툴 구현해보기
 		</tr>
 	</table>
 
+**6. 시연 영상** <br/>
+[![Video Label](http://img.youtube.com/vi/rAzBgJglJD4/0.jpg)](https://youtu.be/rAzBgJglJD4?t=0s)

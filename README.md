@@ -116,6 +116,4 @@ ZIRA, JANDI 등 과 같은 협업툴 구현해보기
 			<td>JQuery-3.5.2</td>
 		</tr>
 	</table>
-**6. 시연영상**
-<br>
-[![Video Label](http://img.youtube.com/vi/rAzBgJglJD4/0.jpg)](https://youtu.be/rAzBgJglJD4)
+

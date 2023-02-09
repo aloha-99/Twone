@@ -71,13 +71,6 @@ ZIRA, JANDI 등 과 같은 협업툴 구현해보기
 			<td>dBeaver , MySQLWorkbench</td>
 		</tr>
 		<tr align="center">
-			<td>문서 작성</td>
-			<td>에디터</td>
-			<td>
-			[Google Drive](https://drive.google.com/drive/folders/17bybIQVKNMG0I_cRHtDqgadOedEauMU6) <br/>
-			</td>
-		</tr>
-		<tr align="center">
 			<td>형상 관리및 협업</td>
 			<td>소스 관리 및 버전관리</td>
 			<td>Git hub , Git</td>
